@@ -1,0 +1,5 @@
+/cogl-hello/cogl-hello
+*.o
+*.swp
+*.tmp
+*~
